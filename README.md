@@ -2,7 +2,7 @@
 
 ### CSE 264 – Web Systems Programming,
 
-- Due Saturday, Sept 17th, 11:59pm
+- Due Sunday, Sept 18th, 11:59pm
 - No extensions under any circumstances.
 
 ### Objective
